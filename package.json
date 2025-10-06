@@ -1,0 +1,14 @@
+{
+  "name": "anilist-autobot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2",
+    "moment-timezone": "^0.5.45"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
